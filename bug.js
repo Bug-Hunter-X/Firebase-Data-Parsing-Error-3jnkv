@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if it is unable to parse the data received from the server. This can happen if the server returns data in an unexpected format or if there is a network error that corrupts the data.
